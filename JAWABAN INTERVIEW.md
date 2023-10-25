@@ -4,7 +4,7 @@ Latar belakang pembangunan web e-commerce mencakup pertumbuhan pesat perdagangan
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Website secondside ini dibuat untuk menjual barang secara online, di dalamnya terdapat berbagai item fashion yang dijual secara online agar pengguna dapat dengan mudah membeli barang dimanapun dan kapanpun. Bertujuan untuk memudahkan kegiatan jual beli yang disajikan dalam bentuk website.
 
 ## 1.3. Branding
 
@@ -54,22 +54,30 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    TSHIRT ||--o{ BARANG : tersusun
+    PEMBELI ||--|{ TSHIRT : beli
 ```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+flowchart TD
+    id1[(Database: PostgreSQL)] <--> id2[Aplikasi Web Backend: ] <--> id3[Web Server: ]  
+```
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+- UI/UX Design : Figma
+- Web Server : 
+- Text Editor : VS Code
+- Browser : Chrome
+- Library : 
+- Framework : 
+- Database : PostgreSQL
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![Contoh](https://github.com/dnjwna/dnjwna/blob/main/Screenshot%202023-10-25%20085458.png?raw=true)
 
 ## 7. Demonstrasi Video
 
