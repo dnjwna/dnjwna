@@ -47,7 +47,7 @@ Inspirasi desain:
 
 ## 2. User Story
 
-Pengguna | Saya ingin bisa| Sehingga |Prioritas
+Sebagai | Saya ingin bisa| Sehingga |Prioritas
 ---|---|---|---
 Pengguna | Melihat katalog | Bisa mengetahui katalog produk| ⭐⭐⭐⭐⭐
 Pengguna | Melihat Menu Produk | Bisa mengetahui deskripsi produk| ⭐⭐⭐⭐⭐
