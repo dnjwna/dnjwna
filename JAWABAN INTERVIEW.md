@@ -83,7 +83,7 @@ flowchart TD
 
 ## 6. Desain User Experience dan User Interface
 
-![Contoh](https://github.com/dnjwna/dnjwna/blob/main/Screenshot%202023-10-25%20085458.png?raw=true)
+![Contoh](https://github.com/dnjwna/dnjwna/blob/main/banner.png?raw=true)
 
 ## 7. Demonstrasi Video
 
