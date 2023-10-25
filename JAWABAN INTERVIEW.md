@@ -39,6 +39,12 @@ Minimalis
 
 Inspirasi desain:
 
+![Contoh](https://github.com/dnjwna/dnjwna/blob/main/Screenshot%202023-10-25%20093200.png?raw=true)
+
+![Contoh](https://github.com/dnjwna/dnjwna/blob/main/Screenshot%202023-10-25%20093218.png?raw=true)
+
+
+
 ## 2. User Story
 
 Pengguna | Saya ingin bisa| Sehingga |Prioritas
