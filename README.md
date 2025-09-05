@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dnjwna/dnjwna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Halo! 👋 Saya [Nama Anda]
+# Halo! 👋 Saya JOE
 
 ## 🚀 Tentang Saya
-Saya seorang [profesi/role Anda] yang passionate dalam mengembangkan solusi teknologi yang inovatif. Saya senang belajar hal-hal baru dan berbagi pengetahuan dengan komunitas developer.
+Saya seorang mahasiswa teknik informatika yang passionate dalam mengembangkan solusi teknologi yang inovatif. Saya senang belajar hal-hal baru dan berbagi pengetahuan dengan komunitas developer.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -31,7 +31,7 @@ Saya seorang [profesi/role Anda] yang passionate dalam mengembangkan solusi tekn
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnjwna&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjwna&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dnjwna&theme=radical&row=1&column=7)
@@ -39,35 +39,24 @@ Saya seorang [profesi/role Anda] yang passionate dalam mengembangkan solusi tekn
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnjwna&theme=radical)
 
-## 💼 Proyek Unggulan
-### 🌟 [Nama Proyek 1](link-to-repo)
-Deskripsi singkat proyek Anda yang menjelaskan apa yang dilakukan aplikasi ini.
-- **Tech:** React, Node.js, MongoDB
-- **Features:** Fitur utama 1, Fitur utama 2
-
-### 🌟 [Nama Proyek 2](link-to-repo)
-Deskripsi singkat proyek lainnya yang menunjukkan kemampuan teknis Anda.
-- **Tech:** Python, Django, PostgreSQL
-- **Features:** Fitur utama 1, Fitur utama 2
-
 ## 📈 Kontribusi
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjwna&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ## 🎯 Sedang Belajar
 - 🌱 Saat ini sedang mempelajari **[teknologi/framework baru]**
-- 🔭 Sedang mengerjakan **[proyek saat ini]**
-- 👯 Mencari kolaborasi untuk **[jenis proyek]**
-- 💬 Tanyakan saya tentang **[keahlian Anda]**
+- 🔭 Sedang mengerjakan **-**
+- 👯 Mencari kolaborasi untuk **-**
+- 💬 Tanyakan saya tentang **-**
 
 ## 🌐 Mari Terhubung!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/username)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/username)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dnjwna)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dnjwna_)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:email@example.com)
 
 ## ⚡ Fun Facts
 - 🎵 Saya suka mendengarkan musik sambil coding
-- 📚 Hobi membaca buku teknologi dan sci-fi
+- 📚 Hobi membaca buku self improvement dan ensiklopedia
 - ☕ Pecinta kopi sejati
 - 🌍 Bermimpi travelling ke berbagai negara
 
