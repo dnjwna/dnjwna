@@ -43,14 +43,13 @@ Saya seorang mahasiswa teknik informatika yang passionate dalam mengembangkan so
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjwna&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ## 🎯 Sedang Belajar
-- 🌱 Saat ini sedang mempelajari **[teknologi/framework baru]**
+- 🌱 Saat ini sedang mempelajari **Full Stack Developer**
 - 🔭 Sedang mengerjakan **-**
 - 👯 Mencari kolaborasi untuk **-**
 - 💬 Tanyakan saya tentang **-**
 
 ## 🌐 Mari Terhubung!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/username)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dnjwna_)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:email@example.com)
 
