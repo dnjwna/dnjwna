@@ -30,4 +30,6 @@ More: [Cinemax](https://github.com/dnjwna/cinemax) (movie platform, React + Lara
 
 ## Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnjwna/)
+[![Email](https://img.shields.io/badge/Email-danujuwana05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danujuwana05@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dnjwna_)
