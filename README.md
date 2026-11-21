@@ -14,7 +14,7 @@ Informatics Engineering student at **UIN Sunan Gunung Djati Bandung**. I build f
 | [**FarmLens**](https://github.com/dnjwna/farmlens) | AgriTech PWA for Indonesian smallholder farmers: plant-disease detection with vision models, hyperlocal weather, weather-triggered crop insurance. | FastAPI, Supabase, Next.js |
 | [**FlowStep**](https://github.com/dnjwna/project-management) | Project management app with role-based access, Kanban board, email invitations and notifications. [Live demo](https://flowstep.vercel.app/login) | Laravel 11, React 19, Redux Toolkit |
 | [**Mini Wallet**](https://github.com/dnjwna/mini-wallet-project) | Wallet REST API and dashboard; transfers use row-locked database transactions. [Live demo](https://mini-wallet-project.vercel.app) | Laravel 11, React, Tailwind |
-| [**Vision Assist**](https://github.com/dnjwna/vision-assist) | Image-to-speech accessibility app for visually impaired users. [Live demo](https://vision-assist-pied.vercel.app) | Next.js, TypeScript, Gemini API |
+| [**Vision Assist**](https://github.com/dnjwna/vision-assist) | Image-to-speech accessibility app for visually impaired users. [Live demo](https://lensasuara.vercel.app) | Next.js, TypeScript, Gemini API |
 
 More: [Cinemax](https://github.com/dnjwna/cinemax) (movie platform, React + Laravel) · [OmniCodec Web](https://github.com/dnjwna/omnicodec-web) (compression, steganography, encryption) · [LibertyRecompAndroid](https://github.com/dnjwna/LibertyRecompAndroid) (fork: stability fixes for an Android game port)
 
